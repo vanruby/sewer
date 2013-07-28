@@ -1,4 +1,4 @@
-sewer
+Sewer
 =====
 
-An experimental json generator that reuses cached fragments
+An experimental json encoder that reuses cached fragments
